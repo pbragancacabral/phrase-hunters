@@ -10,7 +10,7 @@ NO = "n"
 ONLY_LETTERS = "A letter is required"
 ONLY_ONE_LETTER = "Only ONE letter is expected"
 PLACEHOLDER = "_"
-PLAY_AGAIN = "Would you like to play again? "
+PLAY_AGAIN = "Would you like to play again? y/n: "
 SPACE = " "
 WELCOME = """
 ###########################
